@@ -6,3 +6,5 @@ Manual de uso:
   -Presionar Enter para abrir el microfono y preguntar.
   -ESC para romper el bucle
   
+Uso:
+https://youtu.be/zjPq-NWmPaM
